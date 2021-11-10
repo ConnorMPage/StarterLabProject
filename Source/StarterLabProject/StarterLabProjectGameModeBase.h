@@ -13,5 +13,6 @@ UCLASS()
 class STARTERLABPROJECT_API AStarterLabProjectGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+
 	
 };
